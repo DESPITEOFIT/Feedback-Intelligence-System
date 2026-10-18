@@ -129,6 +129,19 @@ and does not create a public Gradio share link. To create a temporary
 public demo, explicitly enable sharing. Anyone with access to an active
 public link may be able to submit reviews and trigger API usage.
 
+
+## Application Screenshots
+
+### Main Dashboard
+![Main dashboard](dashboard.png)
+
+### AI-Powered Review Interpretation
+![AI interpretation](ai-interpretation.png)
+
+### Model Comparison
+![Model comparison](model-comparison.png)
+
+
 ## Limitations
 
 -   The dataset is relatively small and balanced; results may differ on
