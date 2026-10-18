@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+gradio
+langchain
+langchain-core
+langchain-google-genai
+google-genai
+pydantic
